@@ -57,20 +57,20 @@ In my case, it's :
 
 ### Team
 We have 4 people in our team. And we independently complete the entire project coding.
-- [AnkaiLiang](https://github.com/AnkaiLiang)
-- [Taran](https://github.com/songtailun)
-- [Kristy Luo](https://github.com/Kristy-Luo)
-- [jenny91515](https://github.com/jenny91515)
+  - [AnkaiLiang](https://github.com/AnkaiLiang)
+  - [Taran](https://github.com/songtailun)
+  - [Kristy Luo](https://github.com/Kristy-Luo)
+  - [jenny91515](https://github.com/jenny91515)
 ### Acknowledgement
-- BitTiger
-- Jing Li
-- jamesyx(https://github.com/jamesyxw/crawler)
+  - BitTiger
+  - Jing Li
+  - jamesyx(https://github.com/jamesyxw/crawler)
 ## Resource
-- [BitTiger Project: Web Crawler Scrapy](https://www.bittiger.io/microproject/oYDSG6MSFihpiNJ66)
-- [Scrapy](http://scrapy.org)
-- [MongoDB](https://www.mongodb.org)
-- [Splash & ScrapyJS](https://github.com/scrapinghub/scrapy-splash)
-- [ScrapyJS & ScrapyJS](https://blog.scrapinghub.com/2015/03/02/handling-javascript-in-scrapy-with-splash/)
+  - [BitTiger Project: Web Crawler Scrapy](https://www.bittiger.io/microproject/oYDSG6MSFihpiNJ66)
+  - [Scrapy](http://scrapy.org)
+  - [MongoDB](https://www.mongodb.org)
+  - [Splash & ScrapyJS](https://github.com/scrapinghub/scrapy-splash)
+  - [ScrapyJS & ScrapyJS](https://blog.scrapinghub.com/2015/03/02/handling-javascript-in-scrapy-with-splash/)
 
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
