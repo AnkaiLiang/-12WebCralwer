@@ -8,7 +8,7 @@ In this real application, we dealt with different kinds of challenges like dynam
 Finally, I grabbed 38535 items of Xiaomi appstore, each item contain the information of appid, appname, description, catagory, company name, and title.
 
 ### Time
-We started this project on 06/04/2016 and have done on 07/02/2017.
+We started this project on 06/04/2016 and have done on 07/02/2016.
 
 ### [Demo](https://www.youtube.com/watch?v=HVAR5syRljc&feature=youtu.be)
 
