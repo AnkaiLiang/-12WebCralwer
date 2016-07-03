@@ -73,7 +73,8 @@ class XiaomiSpider(scrapy.Spider):
 
     def parse_item(self, response):
         page = Selector(response)
-
+        des = []
+        s = ""
         divs = page.xpath('//div[@class="intro-titles"]')
 
         for div in divs:
@@ -89,3 +90,4 @@ class XiaomiSpider(scrapy.Spider):
                 s = s+str(x)
             item['describe'] = s
             yield item
+
