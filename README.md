@@ -8,9 +8,7 @@ Finally, I grab 38535 items of Xiaomi appstore, each item contain the informatio
 ### Time
 We started this project on 06/04/2016 and have done on 07/02/2017.
 
-### Demo
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HVAR5syRljc" frameborder="0" allowfullscreen></iframe>
+### [Demo](https://www.youtube.com/watch?v=HVAR5syRljc&feature=youtu.be)
 
 ### Usage
 1. Install Scrapy, MongoDB, Splash and ScrapyJS.(If you already have, skil this step. ）
