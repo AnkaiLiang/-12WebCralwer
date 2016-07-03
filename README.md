@@ -12,7 +12,7 @@ We started this project on 06/04/2016 and have done on 07/02/2017.
   - Screenshot
   - GIF
   - Link
-  - ...
+
 ### Usage
 1. Install Scrapy, MongoDB, Splash and ScrapyJS.(If you already have, skil this step. ）
 - [Scrapy](http://doc.scrapy.org/en/latest/intro/install.html)
