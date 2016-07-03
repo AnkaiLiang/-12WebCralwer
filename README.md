@@ -61,10 +61,12 @@ We have 4 people in our team. And we independently complete the entire project c
   - [Taran](https://github.com/songtailun)
   - [Kristy Luo](https://github.com/Kristy-Luo)
   - [jenny91515](https://github.com/jenny91515)
+
 ### Acknowledgement
   - BitTiger
   - Jing Li
   - jamesyx(https://github.com/jamesyxw/crawler)
+  - 
 ## Resource
   - [BitTiger Project: Web Crawler Scrapy](https://www.bittiger.io/microproject/oYDSG6MSFihpiNJ66)
   - [Scrapy](http://scrapy.org)
