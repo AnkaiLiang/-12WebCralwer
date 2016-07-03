@@ -65,8 +65,8 @@ We have 4 people in our team. And we independently complete the entire project c
 ### Acknowledgement
   - BitTiger
   - Jing Li
-  - jamesyx(https://github.com/jamesyxw/crawler)
-  - 
+  - [jamesyx](https://github.com/jamesyxw/crawler)
+
 ## Resource
   - [BitTiger Project: Web Crawler Scrapy](https://www.bittiger.io/microproject/oYDSG6MSFihpiNJ66)
   - [Scrapy](http://scrapy.org)
