@@ -20,11 +20,11 @@ We started this project on 06/04/2016 and have done on 07/02/2017.
   - [Splash](https://splash.readthedocs.io/en/stable/install.html)
   - [ScrapyJS](https://pypi.python.org/pypi/scrapyjs)
 2. Start your Splash and MongoDB server.
-    under catalog /MongoDB/bin:
+  -under catalog /MongoDB/bin:
 ```bash
     ./mongod
 ```
-    On the Terminal of docker:
+  -On the Terminal of docker:
 ```bash
     docker run -p 8050:8050 scrapinghub/splash
 ```
