@@ -21,8 +21,7 @@ We started this project on 06/04/2016 and have done on 07/02/2017.
   - [ScrapyJS](https://pypi.python.org/pypi/scrapyjs)
 2. Start your Splash and MongoDB server.
 + under catalog /MongoDB/bin:
-    ```./mongod
-    ```
+    ```./mongod```
 + On the Terminal of docker:
 ```bash
 docker run -p 8050:8050 scrapinghub/splash
@@ -31,7 +30,7 @@ docker run -p 8050:8050 scrapinghub/splash
 ```bash
 git clone https://github.com/AnkaiLiang/-12WebCralwer.git
 ```
-4. Modify the file -12WebCralwer/appstore_crawler/appstore_crawler/settings.py
+4. Modify the file -12WebCralwer/appstore_crawler/appstore_crawler/settings.py.
 Set your Splash server address and the information of MongoDB
 In my case, it's :
 ```python
