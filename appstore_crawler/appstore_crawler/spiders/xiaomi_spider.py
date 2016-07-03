@@ -83,7 +83,9 @@ class XiaomiSpider(scrapy.Spider):
             item['appid'] = re.match(r'.*/detail/(.*)', item['url']).group(1)
             item['intro'] = div.xpath('./p[2]/text()[1]').extract()[0].encode('utf-8')
             item['company'] = div.xpath('./p[1]/text()').extract_first().encode('utf-8')
-            item['describe'] = page.xpath('//div[@class="app-text"]/p[@class="pslide"][1]/text()'). \
+            des = page.xpath('//div[@class="app-text"]/p[@class="pslide"][1]/text()'). \
                 extract_first().encode('utf-8')
-
+            for x in des:
+                s = s+str(x)
+            item['describe'] = s
             yield item
