@@ -1,11 +1,11 @@
 # Web Crawler Scrapy of APP Store(Xiaomi)
 
 ## Description
-We will create a Scrapy project to crawl the content in the Xiaomi Appstore homepage or any other Appstore homepage. Then Save the crawled content in MongoDB. Install Python MongoDB driver and modify pipelines.py to insert crawled data into MongoDB. Crawl more content by following next page links. 
+We created a Scrapy project to crawl the content in the Xiaomi Appstore homepage or any other Appstore homepage. Then Saved the crawled content in MongoDB. Install Python MongoDB driver and modify pipelines.py to insert crawled data into MongoDB. Crawl more content by following next page links. 
 
 In this real application, we dealt with different kinds of challenges like dynamic JavaScript by Splash+ ScrapyJS or IP being blocked by random useragent.
 
-Finally, I grab 38535 items of Xiaomi appstore, each item contain the information of appid, appname, description, catagory, company name, and title.
+Finally, I grabbed 38535 items of Xiaomi appstore, each item contain the information of appid, appname, description, catagory, company name, and title.
 
 ### Time
 We started this project on 06/04/2016 and have done on 07/02/2017.
@@ -56,7 +56,7 @@ In my case, it's :
     ```
 
 ### Team
-We have 4 people in our team. And we independently complete the entire project coding.
+We had 4 people in our team. And we independently completed the entire project coding.
   - [AnkaiLiang](https://github.com/AnkaiLiang)
   - [Taran](https://github.com/songtailun)
   - [Kristy Luo](https://github.com/Kristy-Luo)
